@@ -4,7 +4,7 @@
   "reportsChannel": "reports",
 
   "activity": {
-    "streaming": false,
-    "game": "Minekwaft"
+    "streaming": true,
+    "game": "Nothing."
   }
 }
